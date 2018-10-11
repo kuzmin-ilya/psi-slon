@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name softusb-smallcase-rescue)(type Legacy)(uri ${KIPRJMOD}/softusb-smallcase-rescue.lib)(options "")(descr ""))
+  (lib (name bat54s)(type Legacy)(uri ${KIPRJMOD}/bat54s.lib)(options "")(descr ""))
+)

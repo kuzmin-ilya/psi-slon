@@ -1,0 +1,13 @@
+We used the following D-SUB 9/9 packaging:
+* DS1061 (CONNFLY)
+http://www.connfly.com/productshow.aspx?id=331
+
+The datasheet is downloaded from the manufactorer site and is not part of the project.
+
+In the digikey other similar model is presented:
+https://www.norcomp.net/series/957-series-dsub-backshell
+Its size slightly differs from DS1061. You may consider it consulting the manufactorer's 
+datasheet  (DC99_connfly.pdf)
+
+The drilling template is drawn in PCB editor so one may order it in the one project with 
+the main board (root folder).
